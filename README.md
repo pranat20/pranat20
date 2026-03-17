@@ -1,6 +1,6 @@
 <div align="left">
-      <img src="https://komarev.com/ghpvc/?username=prateekrajput08&label=Profile%20views&color=0e75b6&style=flat" alt="prateekrajput08" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/prateekrajput08?style=social"> 
+      <img src="https://komarev.com/ghpvc/?username=pranat20&label=Profile%20views&color=0e75b6&style=flat" alt="pranat20" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/pranat20?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/pranat20?style=social">
 </div>
 
@@ -22,7 +22,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prx.nvt)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pranat.pagar.5)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pranatpagar)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cAC9h4eg)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppagar602@gmail.com)
 
 
@@ -33,9 +32,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranat20\&layout=compact\&theme=tokyonight)
 ##
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranat20/pranat20/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranat20/pranat20/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pranat20/pranat20/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
 </picture>
 
 ##
