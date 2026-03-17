@@ -2,7 +2,7 @@ name: Generate pacman animation
 
 on:
 schedule:
-- cron: "0 */12 * * *"   # every 12 hours (fixed format)
+- cron: "0 */12 * * *"
 workflow_dispatch:
 push:
 branches:
@@ -27,7 +27,7 @@ steps:
     with:
       target_branch: output
       build_dir: dist
-      keep_history: true   # (important improvement)
+      keep_history: true
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
