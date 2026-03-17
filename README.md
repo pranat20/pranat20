@@ -5,15 +5,15 @@
 </div>
 
 ## 🖐️ Hi, I'm Pranat Pagar
-🚀 Final Year Computer Engineering Student | Future Full Stack Developer
+🚀 Third Year Computer Engineering Student  |  Future Full Stack Developer
 
 ## 🧑‍💻 About Me
 - 📛 My full name is **Pranat Yogesh Pagar** <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" align="right"/>
-- 🎓 Final Year @ DYPCOEI
+- 🎓 Third Year @ DYPCOEI
 - 📈 My major is **Full-stack Development**
 - 🎯 Primary Focus on **DSA + System Design**
 - 💻 Skilled in Python, Django, Java
-- ⚡ Fun fact: I build real-world projects
+- ⚡ Fun fact is **I build real-world projects**
 
 ## 🌐 Connect With Me
 
@@ -35,7 +35,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranat20/pranat20/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranat20/pranat20/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pranat20/prateekrajput08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pranat20/pranat20/output/pacman-contribution-graph.svg">
 </picture>
 
 ##
